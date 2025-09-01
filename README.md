@@ -62,18 +62,18 @@ src/main/java/com/spring/employeeManagement
 
  ├── controller
  
- │    └── CurrencyController.java
+   └── CurrencyController.java
  
  ├── entities
  
- │    └── CurrencyExchange.java
+   └── CurrencyExchange.java
  
  ├── repositories
  
- │    └── CurrencyExchangeRepository.java
+   └── CurrencyExchangeRepository.java
  
  └── service
-      └── CurrencyService.java
+   └── CurrencyService.java
 
 ✅ Future Improvements
 
