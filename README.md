@@ -82,6 +82,7 @@ Return both per-unit rate and total amount in the response.
 Add exception handling for invalid currencies.
 
 👨‍💻 Author
+
 ShikharTheDeveloper 🚀
 
 
