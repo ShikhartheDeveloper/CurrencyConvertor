@@ -59,12 +59,19 @@ Returns the final converted amount in the response.
 
 📂 Project Structure
 src/main/java/com/spring/employeeManagement
+
  ├── controller
+ 
  │    └── CurrencyController.java
+ 
  ├── entities
+ 
  │    └── CurrencyExchange.java
+ 
  ├── repositories
+ 
  │    └── CurrencyExchangeRepository.java
+ 
  └── service
       └── CurrencyService.java
 
